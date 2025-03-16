@@ -1,2 +1,1 @@
-# Primer-Repositorio
-Este es mi primer repositorio en github
+Tomas este proyeto es un clon
